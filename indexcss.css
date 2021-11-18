@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: content-box;
+}
+body{
+    background-image: url(./dogs-puppies-pet-animal.jpg);
+  background-size: cover;
+  background-position: center ;
+ 
+}
+div ul {
+
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+
+  
+}
+.h1{
+    color: white;
+   
+   
+}
+div ul li{
+    color: white;
+    list-style: none;
+    margin: 40px;
+    padding: -30px;
+}
+button{
+    color:white;
+    background-color: rgb(206, 167, 41);
+    padding: 20px;
+    height: 50%;
+}
+
+
+.pra{
+    margin: 40px;
+    padding: 0px;
+}
+
+.h1text{
+    color: white;
+    font-size: medium;
+    margin :50px;
+    padding: 20px;
+}
+.fontawesome  {
+    size: 40px;;
+}
+
